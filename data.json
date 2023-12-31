@@ -1,0 +1,90 @@
+{
+  "Awesome": [
+    {
+      "image": "data:image/webp;base64,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",
+      "description": "+ADD TO CART",
+      "name": "Quartz Belt Watch",
+      "price": "$150.00",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Quartz Belt Watch",
+      "price": "$150.00",
+      "description": "+ADD TO CART",
+      "image": "./ASSETS/IMAGE/product_2.png (1).webp"
+    },
+    {
+      "id": 3,
+      "name": "Quartz Belt Watch",
+      "price": "$150.00",
+      "description": "+ADD TO CART",
+      "image": "./ASSETS/IMAGE/product_3.png.webp"
+    },
+    {
+      "id": 4,
+      "name": "Quartz Belt Watch",
+      "price": "$150.00",
+      "description": "+ADD TO CART",
+      "image": "./ASSETS/IMAGE/product_4.png (1).webp"
+    },
+    {
+      "id": 5,
+      "name": "Quartz Belt Watch",
+      "price": "$150.00",
+      "description": "+ADD TO CART",
+      "image": "./ASSETS/IMAGE/product_5.png (1).webp"
+    },
+    {
+      "id": 6,
+      "name": "Quartz Belt Watch",
+      "price": "$150.00",
+      "description": "+ADD TO CART",
+      "image": "./ASSETS/IMAGE/product_6.png.webp"
+    },
+    {
+      "id": 7,
+      "name": "Quartz Belt Watch",
+      "price": "$150.00",
+      "description": "+ADD TO CART",
+      "image": "./ASSETS/IMAGE/product_7.png.webp"
+    },
+    {
+      "id": 8,
+      "name": "Quartz Belt Watch",
+      "price": "$150.00",
+      "description": "+ADD TO CART",
+      "image": "./ASSETS/IMAGE/product_8.png.webp"
+    }
+  ],
+  "Favorites": [
+    {
+      "id": 1,
+      "name": "Quartz Belt Watch",
+      "price": "$150.00",
+      "description": "+ADD TO CART",
+      "image": "./ASSETS/IMAGE/product_1.png (1).webp"
+    },
+    {
+      "id": 2,
+      "name": "Quartz Belt Watch",
+      "price": "$150.00",
+      "description": "+ADD TO CART",
+      "image": "./ASSETS/IMAGE/product_2.png (1).webp"
+    },
+    {
+      "id": 7,
+      "name": "Quartz Belt Watch",
+      "price": "$150.00",
+      "description": "+ADD TO CART",
+      "image": "./ASSETS/IMAGE/product_7.png.webp"
+    },
+    {
+      "id": 3,
+      "name": "Quartz Belt Watch",
+      "price": "$150.00",
+      "description": "+ADD TO CART",
+      "image": "./ASSETS/IMAGE/product_3.png.webp"
+    }
+  ]
+}
